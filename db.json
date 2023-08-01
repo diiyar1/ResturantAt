@@ -1,0 +1,174 @@
+{
+  "user": [
+    {
+      "name": "nails",
+      "email": "no989",
+      "password": "bnbn",
+      "id": 1
+    },
+    {
+      "name": "mn",
+      "email": "b",
+      "password": "n",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "email": "mnn",
+      "password": "132",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "email": "mnn",
+      "password": "132",
+      "id": 4
+    },
+    {
+      "name": "nn",
+      "email": "a@gmail.com",
+      "password": "122",
+      "id": 5
+    },
+    {
+      "name": "nn",
+      "email": "a@gmail.com",
+      "password": "122",
+      "id": 6
+    },
+    {
+      "name": "nn",
+      "email": "a@gmail.com",
+      "password": "122",
+      "id": 7
+    },
+    {
+      "name": "nn",
+      "email": "a@gmail.com",
+      "password": "122",
+      "id": 8
+    },
+    {
+      "name": "nn",
+      "email": "a@gmail.com",
+      "password": "122",
+      "id": 9
+    },
+    {
+      "name": "mm",
+      "email": "oo",
+      "password": "55",
+      "id": 10
+    },
+    {
+      "name": "diyar",
+      "email": "ditae",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "batman",
+      "email": "test",
+      "password": "123",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "name": "nora",
+      "email": "nora2gmail.com",
+      "password": "nora",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "name": "hyaat",
+      "email": "hyat2gmail.com",
+      "password": "123",
+      "id": 22
+    },
+    {
+      "name": "nora",
+      "email": "nora",
+      "password": "123",
+      "id": 23
+    }
+  ],
+  "resturant": [
+    {
+      "name": "RCD",
+      "address": "Daily Life",
+      "contact": 1233,
+      "id": 3
+    },
+    {
+      "name": "star books",
+      "address": "magre",
+      "contact": "876",
+      "id": 7
+    },
+    {
+      "name": "nona",
+      "address": "jioran",
+      "contact": "7654",
+      "id": 8
+    },
+    {
+      "name": "forgot",
+      "address": "this time",
+      "contact": "09876",
+      "id": 9
+    },
+    {
+      "name": "roist",
+      "address": "never",
+      "contact": "7654",
+      "id": 10
+    }
+  ]
+}
